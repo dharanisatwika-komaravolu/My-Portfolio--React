@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dharanisatwika-komaravolu/My-Portfolio--React/static/css/main.e7696d01.css",
-    "main.js": "/dharanisatwika-komaravolu/My-Portfolio--React/static/js/main.9c44a7cf.js",
-    "static/js/156.687a774f.chunk.js": "/dharanisatwika-komaravolu/My-Portfolio--React/static/js/156.687a774f.chunk.js",
-    "index.html": "/dharanisatwika-komaravolu/My-Portfolio--React/index.html",
-    "main.e7696d01.css.map": "/dharanisatwika-komaravolu/My-Portfolio--React/static/css/main.e7696d01.css.map",
-    "main.9c44a7cf.js.map": "/dharanisatwika-komaravolu/My-Portfolio--React/static/js/main.9c44a7cf.js.map",
-    "156.687a774f.chunk.js.map": "/dharanisatwika-komaravolu/My-Portfolio--React/static/js/156.687a774f.chunk.js.map"
+    "main.css": "/My-Portfolio--React/static/css/main.e7696d01.css",
+    "main.js": "/My-Portfolio--React/static/js/main.b7287c17.js",
+    "static/js/156.687a774f.chunk.js": "/My-Portfolio--React/static/js/156.687a774f.chunk.js",
+    "index.html": "/My-Portfolio--React/index.html",
+    "main.e7696d01.css.map": "/My-Portfolio--React/static/css/main.e7696d01.css.map",
+    "main.b7287c17.js.map": "/My-Portfolio--React/static/js/main.b7287c17.js.map",
+    "156.687a774f.chunk.js.map": "/My-Portfolio--React/static/js/156.687a774f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7696d01.css",
-    "static/js/main.9c44a7cf.js"
+    "static/js/main.b7287c17.js"
   ]
 }
